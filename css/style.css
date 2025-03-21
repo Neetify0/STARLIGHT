@@ -39,7 +39,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
-    animation: fadeIn 1s forwards;
+    animation: fadeIn 1.75s forwards;
     display: flex;
     flex-direction: column;
     gap: 10px;
