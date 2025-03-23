@@ -27,12 +27,11 @@ body {
     font-size: 2em;
 }
 
-@keyframes moveTitle {
+  @keyframes moveTitle {
     to {
-        top: 25%;
-        transform: translateX(-50%);
+      transform: translateX(-50%) translateY(-300%) scale(1.5);
     }
-}
+  }
 
 .center-buttons {
     position: absolute;
